@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 1.0 - Example Data/
 *Clustering-Pros-Cons.pdf
+*.venv/
